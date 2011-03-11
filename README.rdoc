@@ -1,0 +1,19 @@
+== Jogo Todos Contra Dengue para TV digital Interativa
+=== Não dê bobeira, mate o mosquito da dengue e ajude sua cidade.
+
+Jogo educativo para TV Digital interativa focado no combate à epidemia de dengue.
+
+== A aplicação
+Durante o jogo, a lógica e a apresentação dos elementos gráficos são realizadas pelo script Lua. Nas telas de configuração, o sincronismo dos elementos de mídia (áudio e botões) são implementados pelo documento NCL.
+
+== Observações
+É importante ressaltar que essa versão foi desenvolvida no início de 2009 e por isso pode não funcionar corretamente nas versões mais novas do Set-top Box virtual.
+
+Atualizações são mais que bem vindas :-)
+
+== Como contribuir
+Sinta-se a vontade para contribuir, mas antes verifique os tutoriais de colaboração (Collaborating) na seção de {ajuda do GitHub}[http://help.github.com/].
+
+== Licença
+Este aplicativo está sob licença {GNU GPL 2.0}[http://www.gnu.org/licenses/gpl-2.0.txt].
+
